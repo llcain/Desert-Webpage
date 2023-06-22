@@ -35,3 +35,13 @@ nav {
     flex: 1;
     text-align: right;
 }
+
+ul li {
+    list-style-type: none;
+    float: right;
+    margin: 16px;
+}
+
+li a  {
+    text-decoration: none;
+}
