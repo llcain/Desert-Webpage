@@ -36,12 +36,14 @@ nav {
     text-align: right;
 }
 
-ul li {
+nav ul li {
     list-style-type: none;
-    float: right;
-    margin: 16px;
+    display: inline-block;
+    margin-left: 60px;
 }
 
-li a  {
+ nav ul li a  {
     text-decoration: none;
+    color: #fff;
+    font-size: 13px;
 }
