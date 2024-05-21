@@ -124,3 +124,9 @@ h5 {
     text-shadow: 0 0 5px #999;
     font-size: 8px;
 }
+
+@media screen and (max-width: 600px) {
+    .row {
+        flex-direction: column;
+    }
+}
